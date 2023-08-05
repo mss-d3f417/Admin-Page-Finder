@@ -26,7 +26,7 @@ MR.D3F417 Admin Site Page Finder
   <h3 align="center">GUI Admin Page Finder</h3>
 
   <p align="center">
-    GUI Language Translator With Python By MR.D3F417 ! 
+    GUI Admin Page Finder With Python By MR.D3F417 ! 
     <br />
     <br />
     <br />
